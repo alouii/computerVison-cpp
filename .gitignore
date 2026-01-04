@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# CUDA / object files
+*.o
+*.so
+*.a
+*.ptx
+*.cubin
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
